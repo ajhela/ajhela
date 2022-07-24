@@ -1,4 +1,4 @@
-###👋 Hello!
+### 👋 Hello!
 - 🌱 I’m currently studying Computer Science
 
 <!---
