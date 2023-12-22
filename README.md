@@ -1,6 +1,9 @@
 ### 👋 Hello!
 - 🌱 I’m currently studying Computer Science
 <!--
+[![Discord Presence](https://lanyard.cnrad.dev/api/249699365436915714)](https://discord.com/users/249699365436915714)
+-->
+<!--
 
 <a href="https://github.com/itaditya#gh-dark-mode-only">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajhela&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
